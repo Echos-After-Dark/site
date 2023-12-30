@@ -1,0 +1,9 @@
+items:
+- title: 'Scores'
+  url: '/scores-page'
+- title: 'Merch'
+  url: '/merch-page'
+- title: 'Schedule'
+  url: '/schedule-page'
+- title: 'About'
+  url: '/about-page'

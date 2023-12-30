@@ -1,3 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Echos After Dark'
+theme = 'massively'
+
+[params]
+  backgroundPath = "img/dj.jpg"
