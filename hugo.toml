@@ -5,3 +5,7 @@ theme = 'massively'
 
 [params]
   backgroundPath = "img/dj.jpg"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
