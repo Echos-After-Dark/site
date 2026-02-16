@@ -4,7 +4,7 @@ title = 'Echos After Dark'
 theme = 'massively'
 
 [params]
-  backgroundPath = "img/dj.jpg"
+  backgroundPath = "images/background.jpg"
 
 [caches]
   [caches.images]
