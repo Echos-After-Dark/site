@@ -1,11 +1,15 @@
 +++
-title = 'Post 1'
-slug = 'post1'
+title = "We're Live!"
+slug = "were-live"
 image = 'img/parchment.jpg'
-date = "2019-04-18T00:00:00"
-description = 'Post 1 description'
+date = "2026-02-20T12:49:00"
+description = '...and it sure took long enough.'
 disableComments = true
 +++
-post 1 text body
+---
+We know, we know.  It took us FOREVER to get things up and running.  Rest assured, we will be updating this page regularly with our progress.  We're excited to introduce our debut album in the coming months, so stay tuned!
 
-![img](/img/dj.jpg)
+![img](/images/fatman.jpg)
+&emsp; Photography By: [AVDude LLC](www.theavdude.com)
+
+---
