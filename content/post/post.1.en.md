@@ -10,6 +10,6 @@ disableComments = true
 We know, we know.  It took us FOREVER to get things up and running.  Rest assured, we will be updating this page regularly with our progress.  We're excited to introduce our debut album in the coming months, so stay tuned!
 
 ![img](/images/fatman.jpg)
-&emsp; Photography By: [AVDude LLC](www.theavdude.com)
+&emsp; Photography By: [AVDude LLC](https://www.theavdude.com)
 
 ---
