@@ -30,7 +30,6 @@
 			position: fixed;
 			width: 100vw;
 			height: 100vh;
-			background-size: auto, auto, 100vh auto;
 		}
 	}
 
@@ -59,7 +58,7 @@
 
 	@include orientation(portrait) {
 		>.bg {
-			background-size: auto, auto, auto 175%;
+			background-size: auto, auto, auto 100vh;
 		}
 	}
 }
