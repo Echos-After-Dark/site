@@ -1,10 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Echos After Dark'
+title = 'Home'
 theme = 'massively'
 
 [params]
-  backgroundPath = "images/background.jpg"
+  backgroundPath = "images/bg.jpg"
 
 [caches]
   [caches.images]
