@@ -1,9 +1,9 @@
 items:
 - title: 'Scores'
-  url: '/scores-page'
+  url: '/scores'
 - title: 'Merch'
-  url: '/merch-page'
+  url: '/merch'
 - title: 'Schedule'
-  url: '/schedule-page'
+  url: '/schedule'
 - title: 'About'
-  url: '/about-page'
+  url: '/about'

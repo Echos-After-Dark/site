@@ -1,8 +1,8 @@
 +++
 title = 'Schedule'
-slug = 'schedule-page'
-image = 'img/bobstock.jpg'
-description = 'description'
+slug = 'schedule'
+image = 'images/025_logo_horizontal_1_white.png'
+description = 'Stay tuned...'
 disableComments = true
 +++
-text body
+&emsp;Artwork by: [@raqueltrazos](https://www.instagram.com/raqueltrazos/)

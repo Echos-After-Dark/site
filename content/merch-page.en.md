@@ -1,8 +1,8 @@
 +++
 title = 'Merchandise'
-slug = 'merch-page'
-image = 'img/bobstock.jpg'
-description = 'description'
+slug = 'merch'
+image = 'images/025_logo_horizontal_1_white.png'
+description = 'Stay tuned...'
 disableComments = true
 +++
-text body
+&emsp;Artwork by: [@raqueltrazos](https://www.instagram.com/raqueltrazos/)

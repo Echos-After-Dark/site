@@ -1,8 +1,8 @@
 +++
 title = 'About'
-slug = 'about-page'
-image = 'img/bobstock.jpg'
-description = 'description'
+slug = 'about'
+image = 'images/025_logo_horizontal_1_white.png'
+description = 'Stay tuned...'
 disableComments = true
 +++
-text body
+&emsp;Artwork by: [@raqueltrazos](https://www.instagram.com/raqueltrazos/)
